@@ -10,34 +10,34 @@
 
 ### Educational Details :
 
-   ## **Btech**
+   **Btech**
    
    - College:MIc college of Technology<br>
    - Branch:CSE<br>
    - percentage:90%
   
-   ## **Intermediate**
+   **Intermediate**
     
    - college:harika juior college<br>
    - Group:MPC<br>
    - Percentage:97%<br>
     
-   ## **S.S.C**
+   **S.S.C**
     
    - college:ZPH Hgh School<br>
    - Adress:Revedhrapadu<br>
    - percentage:90%<br>
      
- ## **Skills**
+ **Skills**
    
    - python :83.45%<br>
    - c programming:90.00% ani anukuntanna<br>
   
- ## **goal**
+ **goal**
    - I want to build company
     
- ## **Hobbies**
+  **Hobbies**
    - plyig Cricket 
    - chess
    - Daily Covid  news 
-   - readin books
+   - reading books
