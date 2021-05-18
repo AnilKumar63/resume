@@ -1,6 +1,6 @@
  # resume
 ## Anil Kumar
-=============
+============
 
 ### Personal Detalis :
     
