@@ -31,7 +31,7 @@
   **Skills**
    
    - python :83.45%<br>
-   - c programming:90.00% ani anukuntanna<br>
+   - c programming:90.00% <br>
   
   **goal**
    - I want to build company
