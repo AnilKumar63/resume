@@ -26,7 +26,7 @@
     
    - college:ZPH Hgh School<br>
    - Adress:Revedhrapadu<br>
-   - percentage:border<br>
+   - percentage:90%<br>
      
  ## **Skills**
    
