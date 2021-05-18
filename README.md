@@ -40,3 +40,4 @@
    - plyig Cricket 
    - chess
    - Daily Covid  news 
+   - readin books
