@@ -33,6 +33,10 @@
     -c programming:90.00% ani anukuntanna<br>
     -pubji Gaming<br>
     -Github<br>
+  **goal**
+    -I want to build company like Mic college
     
-    
-  
+  **Hobbies**
+    -Air 
+    -karra billa
+    -news 
