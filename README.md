@@ -4,19 +4,19 @@
 
 ### Personal Detalis :
     
-  -  Name:Yadala Anil Kumar<br>
-  -  phno:9705714***<br>
-  -  email:yadalaanilkumarnaidu@gmail.com<br>
+  - Name:Yadala Anil Kumar<br>
+  - phno:9705714***<br>
+  - email:yadalaanilkumarnaidu@gmail.com<br>
 
-### EDucational Details :
+### Educational Details :
 
- ## ** Btech **
+ ## **Btech**
    
     - college:MIc college of Technology<br>
     - Branch:CSE<br>
-    - percentage:comming soon<br>
+    - percentage:90%
   
- ## ** Intermediate **
+ ## **Intermediate**
     
     - college:harika juior college<br>
     - Group:MPC<br>
@@ -27,16 +27,16 @@
      - Adress:Revedhrapadu<br>
      - percentage:border<br>
      
- ## ** Skills **
+ ## **Skills**
     - chala ekkuvee
     - python :83.45%<br>
     - c programming:90.00% ani anukuntanna<br>
     - pubji Gaming<br>
     - Github<br>
- ## ** goal **
+ ## **goal**
     -I want to build company like Mic college
     
- ## ** Hobbies **
-    - Air 
-    - karra billa
+ ## **Hobbies**
+    - plyig Cricket 
+    - chess
     - Covid  news 
