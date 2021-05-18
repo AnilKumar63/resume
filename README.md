@@ -10,33 +10,33 @@
 
 ### Educational Details :
 
- ## **Btech**
+   ## **Btech**
    
-    - college:MIc college of Technology<br>
-    - Branch:CSE<br>
-    - percentage:90%
+   - College:MIc college of Technology<br>
+   - Branch:CSE<br>
+   - percentage:90%
   
- ## **Intermediate**
+   ## **Intermediate**
     
-    - college:harika juior college<br>
-    - Group:MPC<br>
-    - Percentage:ekkuvee<br>
- ## **S.S.C**
+   - college:harika juior college<br>
+   - Group:MPC<br>
+   - Percentage:97%<br>
     
-     - college:ZPH Hgh School<br>
-     - Adress:Revedhrapadu<br>
-     - percentage:border<br>
+   ## **S.S.C**
+    
+   - college:ZPH Hgh School<br>
+   - Adress:Revedhrapadu<br>
+   - percentage:border<br>
      
  ## **Skills**
-    - chala ekkuvee
-    - python :83.45%<br>
-    - c programming:90.00% ani anukuntanna<br>
-    - pubji Gaming<br>
-    - Github<br>
+   
+   - python :83.45%<br>
+   - c programming:90.00% ani anukuntanna<br>
+  
  ## **goal**
-    -I want to build company like Mic college
+   - I want to build company
     
  ## **Hobbies**
-    - plyig Cricket 
-    - chess
-    - Covid  news 
+   - plyig Cricket 
+   - chess
+   - Daily Covid  news 
